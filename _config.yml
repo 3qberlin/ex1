@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Berlin's Hexo Website
+subtitle: 'sharing Hexo, HTML, CSS, JavaScript knowledge'
+description: 'free'
 keywords:
-author: John Doe
-language: en
+author: Berlin
+language: zh-TW
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://3qberlin.github.io/ex1/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -96,7 +96,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+# theme: landscape
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
